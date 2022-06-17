@@ -162,6 +162,7 @@ a{
 }
 
 .secUl{
+  margin-left: 55px;
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
@@ -203,9 +204,11 @@ a{
 }
 
 .pastUl{
+
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-left: 80px;
   list-style-type: none;
   width: 1300px;
 
